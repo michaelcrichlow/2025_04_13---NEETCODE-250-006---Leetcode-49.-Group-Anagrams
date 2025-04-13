@@ -1,4 +1,4 @@
-# NEETCODE (006)
+# NEETCODE 250 (006)
 
 # Leetcode 49. Group Anagrams
 # Wrong asnwer at strs = ["",""] 
